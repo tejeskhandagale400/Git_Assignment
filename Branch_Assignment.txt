@@ -1,0 +1,20 @@
+1)git init 
+2)git add .
+3)git mv old_filename new_filename
+4)git commit -m "Adds first file"
+5)git branch
+6)git branch new_branch
+7)git commit am"features"
+8)git checkout new_branch
+9)cd .git/ref/head
+10)git status
+11)git diff master ..new_branch
+12)git branch --merged
+13)git merge new_branch
+14)git checkout master
+15)git add file.txt
+16)git commit am"Adds some new features"
+17)git checkout master
+18)git merge b1 b2 b3
+19)git log
+20)gitb branch -d new_branch
